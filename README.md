@@ -17,5 +17,5 @@ sudo node-gyp configure
 node-gyp build
 
 5) run node file:
-node index.js //this file is just a sample driver code
+node index.js (this file is just a sample driver code)
 
